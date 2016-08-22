@@ -38,6 +38,8 @@ gem 'simple_form', '~> 3.2', '>= 3.2.1'
 
 gem 'boostrap-sass', '~> 0.0.2'
 
+gem 'smart_listing', '~> 1.1', '>= 1.1.2'
+
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug'
